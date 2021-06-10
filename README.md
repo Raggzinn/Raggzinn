@@ -4,4 +4,4 @@
 
 - 🔭 Atualmente estou trabalhando no https://gammabot.xyz
 - 🌱 Estou estudando JAVA!
-- 💬 Fale comigo via discord `Raggzinn#0001`
+- 💬 Fale comigo via discord `Raggzinn#4296`
