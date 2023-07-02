@@ -1,4 +1,4 @@
-### Hi there, my name is João 👋
+# Hi there, my name is João 👋
 
 - 🔭 I am a **front end developer** working as a freelancer around the world;
 - 💼 Founder and CTO of **[BLS DATACENTER](https://blasthost.com.br/)**;
@@ -40,7 +40,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
-## 💻 and I use the following operating systems on my computers
+### 💻 and I use the following operating systems on my computers
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
