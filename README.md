@@ -1,7 +1,7 @@
 ### Hi there, my name is João 👋
 
 - 🔭 I am a **front end developer** working as a freelancer around the world;
-- 💼 Founder and CTO of **[BLS DATACENTER](https://blasthost.com.br/)**.
+- 💼 Founder and CTO of **[BLS DATACENTER](https://blasthost.com.br/)**;
 - 🌎 Need a project? contact us immediately via email **joao@blasthost.com.br**!
 
 ### 👨🏻‍💻 I use the following languages:
