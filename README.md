@@ -1,4 +1,4 @@
-# Hi there, my name is João 👋
+# Hi there, my name is João Gabriel 👋
 
 - 🔭 I am a **front end developer** working as a freelancer around the world;
 - 💼 Founder and CTO of **[BLS DATACENTER](https://blasthost.com.br/)**;
